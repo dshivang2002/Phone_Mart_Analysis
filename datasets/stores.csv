@@ -1,0 +1,74 @@
+store_id,store_name,city,country
+ST-1,Apple Gateway of New York,New York,USA
+ST-2,Apple Ridgeview Plaza,Los Angeles,USA
+ST-3,Apple Central Park District,San Francisco,USA
+ST-4,Apple North Gate,Chicago,USA
+ST-5,Apple Sunset Boulevard,Miami,USA
+ST-6,Apple Tower Bridge,London,UK
+ST-7,Apple Champs-Elysées,Paris,France
+ST-8,Apple Fuji Skyline,Tokyo,Japan
+ST-9,Apple Darling Harbour,Sydney,Australia
+ST-10,Apple Alexanderplatz,Berlin,Germany
+ST-11,Apple Seville Park,Madrid,Spain
+ST-12,Apple Queen’s Park,Toronto,Canada
+ST-13,Apple Italian Square,Rome,Italy
+ST-14,Apple Xianyu District,Shanghai,China
+ST-15,Apple Kowloon Peak,Hong Kong,China
+ST-16,Apple Marina Mall,Dubai,UAE
+ST-17,Apple Punta Cana Plaza,Mexico City,Mexico
+ST-18,Apple Kings Road,Amsterdam,Netherlands
+ST-19,Apple Gangnam Square,Seoul,South Korea
+ST-20,Apple Harbour City,Toronto,Canada
+ST-21,Apple Sandton City,Cape Town,South Africa
+ST-22,Apple Paulista Avenue,Sao Paulo,Brazil
+ST-23,Apple Robson Square,Vancouver,Canada
+ST-24,Apple Pacifico Mall,Buenos Aires,Argentina
+ST-25,Apple Fashion District,Milan,Italy
+ST-26,Apple Zurich Grand Mall,Zurich,Switzerland
+ST-27,Apple Tverskaya Street,Moscow,Russia
+ST-28,Apple Orchard Road,Singapore,Singapore
+ST-29,Apple Loop Street,Johannesburg,South Africa
+ST-30,Apple Beachfront,Rio de Janeiro,Brazil
+ST-31,Apple City Walk,Dubai,UAE
+ST-32,Apple Rajiv Gandhi Nagar,Bangalore,India
+ST-33,Apple Colaba District,Mumbai,India
+ST-34,Apple Pavilion Gardens,Kuala Lumpur,Malaysia
+ST-35,Apple Bondi Junction,Sydney,Australia
+ST-36,Apple Latin Quarter,Paris,France
+ST-37,Apple Silom District,Bangkok,Thailand
+ST-38,Apple Rue de la Paix,Brussels,Belgium
+ST-39,Apple Miraflores Square,Lisbon,Portugal
+ST-40,Apple Nobel Plaza,Stockholm,Sweden
+ST-41,Apple Innbruck Square,Vienna,Austria
+ST-42,Apple Palacio de Cibeles,Madrid,Spain
+ST-43,Apple Acropolis Center,Athens,Greece
+ST-44,Apple Palm Jumeirah,Dubai,UAE
+ST-45,Apple Singapore Bay,Singapore,Singapore
+ST-46,Apple Rådhusplassen,Copenhagen,Denmark
+ST-47,Apple Kaiserstraße,Frankfurt,Germany
+ST-48,Apple Place d'Italie,Brussels,Belgium
+ST-49,Apple Boulevard Haussmann,Paris,France
+ST-50,Apple Mission Bay,San Diego,USA
+ST-51,Apple Grand Place,Antwerp,Belgium
+ST-52,Apple Avenida da Liberdade,Lisbon,Portugal
+ST-53,Apple Bahnhofstrasse,Zurich,Switzerland
+ST-54,Apple Happy Valley Road,Hong Kong,China
+ST-55,Apple High Street,Melbourne,Australia
+ST-56,Apple Namdaemun Market,Seoul,South Korea
+ST-57,Apple Leopoldstrasse,Munich,Germany
+ST-58,Apple Wadi Al Safa,Riyadh,Saudi Arabia
+ST-59,Apple La Rambla,Madrid,Spain
+ST-60,Apple Victoria & Alfred Waterfront,Cape Town,South Africa
+ST-61,Apple Yas Island,Abu Dhabi,UAE
+ST-62,Apple Drottninggatan,Stockholm,Sweden
+ST-63,Apple MG Road,New Delhi,India
+ST-64,Apple Fifth Avenue,New York,USA
+ST-65,Apple Cairo Opera House,Cairo,Egypt
+ST-66,Apple Kingdom Street,Riyadh,Saudi Arabia
+ST-67,Apple Greenmarket Square,Cape Town,South Africa
+ST-68,Apple Plaza de la República,Jakarta,Indonesia
+ST-69,Apple Yorkville,Toronto,Canada
+ST-70,Apple Lake Geneva,Geneva,Switzerland
+ST-71,Apple Stureplan,Stockholm,Sweden
+ST-72,Apple West End,New York,USA
+ST-73,Apple Ipanema Avenue,Sao Paulo,Brazil
